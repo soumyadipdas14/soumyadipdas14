@@ -34,7 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/soumyadipdas14/soumyadipdas14/output/snake.svg" alt="Snake animation" />
 
 ###
 
