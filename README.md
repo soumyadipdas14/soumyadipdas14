@@ -31,7 +31,11 @@
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="9" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" height="30" alt="react logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" height="30" alt="firebase logo"  />
+  <img width="9" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /> />
+  <img width="9" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
 ###
